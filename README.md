@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonardo-pais
-- 👀 I’m interested in Data/Machine Learning
-- 🌱 I’m currently learning Data Engineering Basics
+- 👀 I’m interested in Data and Web Development
+- 🌱 I’m currently improving my Python, SQL skills
 - 💞️ I’m looking to collaborate on anything data related
 <!---
 - 📫 How to reach me 
