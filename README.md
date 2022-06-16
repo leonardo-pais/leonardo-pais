@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @leonardo-pais
 - 👀 I’m interested in Data and Web Projects
 - 🌱 I’m currently improving my Python, SQL and Web Development Skills
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ One of my goals for 2022/2023 is to start contributing to Open Source projects on GitHub
 - 📫 My LinkedIn Profile: https://www.linkedin.com/in/leopais/
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=leonardo-pais&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=151515">
 
 <!---
 leonardo-pais/leonardo-pais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
