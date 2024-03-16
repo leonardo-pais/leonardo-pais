@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonardo-pais
-- 👀 I’m interested in Data and Automation Projects
-- 🌱 I’m currently improving my Data and Software Development Skills
-- 💞️ One of my goals for 2023/2024 is to start contributing to Open Source projects on GitHub
+- 👀 I’m interested in Machine Learning Projects
+- 🌱 I’m currently improving my Machine Learning and Cloud Skills
+- 💞️ One of my goals for 2024 is to start contributing to Open Source projects on GitHub
 - 📫 My LinkedIn Profile: https://www.linkedin.com/in/leopais/
 
 
