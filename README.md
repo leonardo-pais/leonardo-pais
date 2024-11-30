@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonardo-pais
-- 👀 I’m interested in Machine Learning Projects
+- 👀 I’m interested in ML/MLOps Projects
 - 🌱 I’m currently improving my Machine Learning and Cloud Skills
-- 💞️ One of my goals for 2024 is to start contributing to Open Source projects on GitHub
+- 💞️ One of my goals for 2025 is to start an specialization course in Machine Learning
 - 📫 My LinkedIn Profile: https://www.linkedin.com/in/leopais/
 
 
